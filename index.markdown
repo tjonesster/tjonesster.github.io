@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Testing testing testing
+This is the basic area for our homesite
