@@ -20,7 +20,7 @@
 
 title: tjonesster.github.io
 email: tjonesster@gmail.com
-description: >- This is the dsecription of the site 
+description: This is the dsecription of the site 
 baseurl: "tjonesster" # the subpath of your site, e.g. /blog
 url: "github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
