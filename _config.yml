@@ -23,7 +23,7 @@ email: tjonesster@gmail.com
 description: >- This is the dsecription of the site 
 baseurl: "tjonesster" # the subpath of your site, e.g. /blog
 url: "github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: jekyllrb
 github_username:  tjonesster
 
 # Build settings
